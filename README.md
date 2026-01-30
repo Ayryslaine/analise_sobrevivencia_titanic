@@ -26,7 +26,7 @@ Para compreender as diretrizes completas e o contexto do problema de negócio, c
 
 ### 🖼️ Apresentação do Projeto
 
-O resumo das descobertas e a caracterização dos perfis sobreviventes podem ser consultados no arquivo em formato PDF disponível na raiz deste repositório: `Apresentação titanic Albaro.pdf`
+O resumo das descobertas e a caracterização dos perfis sobreviventes podem ser consultados no arquivo disponível no link a seguir: `(https://www.canva.com/design/DAG3r_PpDeo/8P2VLYa-EbODUxJEw5rxrQ/edit?utm_content=DAG3r_PpDeo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)`
 
 ---
 
